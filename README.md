@@ -2,11 +2,15 @@
 
 *Try it here (Tinkercad)- https://www.tinkercad.com/things/f8ZcvaADujy-digital-birthday-cake?sharecode=ICyaT2BlDS7_xqUmgh013fXfsvGTh08yXwxuQOfO9i8
 
+*Code at E-Cake/E-Cake.ino
+
 *Comment AM2320 or TMP36 codes accordingly to switch between the 2 sensors
 
 *AM2320 is used for physical circuit while TMP36 is used for Tinkercad simulation
 
 *Comment out '#include<Wire.h>' for Tinkercad
+
+*Documentations at Doc folder
 
 ## Materials
 
